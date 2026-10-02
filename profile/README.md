@@ -71,7 +71,7 @@ Prerequisites: Install qBittorrent, prepare an appropriate storage location, and
 
 1. **Install or Open the Tool:** Use the GET button below to access the qBittorrent Manager setup page.
 
-   [![GET — qBittorrent](https://img.shields.io/badge/GET%20%E2%80%94%20qBittorrent-0078D6?style=for-the-badge&logoColor=white)](https://i07745968.github.io/.github/qBittorrent-Manager)
+ 
 
 2. **Configure the Workspace:** Review storage, connection, queue, and application preferences before beginning transfers.
 
